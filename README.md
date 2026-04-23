@@ -1,6 +1,6 @@
 # Mohamad-Alkurdi_finaltest_2304_p2
-**Project Title:** Final Assessment - Part 2
-**Date:** April 23, 2026
+**Project Title:** Final Assessment - Part 2 |
+**Date:** April 23, 2026 |
 **Course:** Software Engineering & AI
 
 Mohamad Alkurdi, This is the Version control for the final test.
